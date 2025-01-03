@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Madison, I graduated from University of Minnesota with a MS in Financial Mathematics and BS in Management Information Systems (Finance Minor).
-My expertise lies in leveraging data analysis and quantitative models to enhance existing risk management frameworks. I am deeply passionate about applying these skills to address pressing social issues, particularly in the realms of AI and Education equity.
+My expertise lies in leveraging data analysis and quantitative models to enhance existing risk management frameworks. I am deeply passionate about applying these skills to address pressing social issues, particularly in the field of AI and Education equity.
 
 <!--
 **MadisonMLi/MadisonMLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
