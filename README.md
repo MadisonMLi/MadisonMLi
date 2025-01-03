@@ -8,7 +8,7 @@ My expertise lies in leveraging machine learning and other quantitative analysis
 
 - Skills in real world: Drawing, painting, graphic designs. check out my ig:2sidesof_me
 
-- I'm also a mentor at ISMP - International Student Mentorship Programs -> [check out ](https://www.internationalmentorship.org/)
+- I'm also a mentor at ISMP - International Student Mentorship Programs -> [check it out ](https://www.internationalmentorship.org/)
 - Make sure to say hi if you are coming to **THE** OSU 😄
 
   
