@@ -1,11 +1,17 @@
 ### Hi there 👋
 
-My name is Madison, I graduated from University of Minnesota with a MS in Financial Mathematics and BS in Management Information Systems (Finance Minor).
-My expertise lies in leveraging data analysis and quantitative models to enhance existing risk management frameworks. I am deeply passionate about applying these skills to address pressing social issues, particularly in the field of **AI** and **Education equity**.
+My name is Madison, I graduated from University of Minnesota with a MS in **Financial Mathematics** and BS in **Management Information Systems** (Finance Minor).
+My expertise lies in leveraging machine learning and other quantitative analysis to optimize existing data frameworks. I am deeply passionate about applying these skills to address real world issues, particularly in the field of **AI** and **Education equity**.
 
 
-- Program Languages: Python, C++, C#
+- Skills: Python, C++, C#, javascript & Html
+
+- Skills in real world: Drawing, painting, graphic designs. check out my ig:2sidesof_me
+
+- I'm also a mentor at ISMP - International Student Mentorship Programs -> check out [link] (https://www.internationalmentorship.org/) Make sure to say hi if you are coming to THE OSU 😄
+
   
+  🌱🌱🌱🌱🌱🌱🌱🌱🌱
 
 <!--
 **MadisonMLi/MadisonMLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
