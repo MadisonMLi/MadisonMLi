@@ -1,14 +1,20 @@
 ### Hi there 👋
 
-My name is Madison, I graduated from University of Minnesota with a MS in **Financial Mathematics** and BS in **Management Information Systems** (Finance Minor).
-My expertise lies in leveraging machine learning and other quantitative analysis to optimize existing data frameworks. I am deeply passionate about applying these skills to address real world issues, particularly in the field of **AI** and **Education equity**.
+This is Madison Li
+
+**Current**: Master in Computer Engineering (Human Robot Interactions) @ Tufts University 
+
+Education: Ms in Financial Mathematics 
+           BS in Management Information Systems, minor in Finance 
 
 
-- Skills: Python, C++, C#, javascript & Html
+- Skills: Python, SQL, API architecture, C++, C#, javascript & Html
+          ML libraies & Framworks: TensorFlow, PyTorch, Scikit-learn, XGBoost
+          Data Analysis & Visualization: SQL, R, Python(numpy,pandas), Power BI, Tableau, etc.
+          Statistical Modeling: linear regression, random forest, logistic regression, clustering, KNN, etc.
+          Web Development: C#,  JavaScript, .NET Core, CSS
 
-- Skills in real world: Drawing, painting, graphic designs. check out my ig:2sidesof_me
-
-- I'm also a mentor at ISMP - International Student Mentorship Programs -> [check it out ](https://www.internationalmentorship.org/)
+- Skills in real world: check out my ig - 2sidesof_me
 
 
   
