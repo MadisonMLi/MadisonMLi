@@ -1,20 +1,41 @@
-### Hi there 👋
+## 👋 Hi, I'm Madison Li
 
-This is Madison Li
+## EDUCATION: 
+Master in **Computer Engineering** (Human Robot Interactions) @ Tufts University 
 
-**Current**: Master in **Computer Engineering** (Human Robot Interactions) @ Tufts University 
 
-**Education**: Ms in Financial Mathematics 
-           BS in Management Information Systems, Minor in Finance 
+🎓 MS in Financial Mathematics | BS in Management Information Systems  
+
+💡 Interested in **Machine Learning**, **Education Technology**, and **Human–Robot Interaction**  
+
+📍 Newton, MA | ✉️ [ml32@tufts.edu](mailto:ml32@tufts.edu)
+
+---
+
 
 
 - **Skills**: Python, SQL, API architecture, C++, C#, javascript & Html
--          ML libraies & Framworks: TensorFlow, PyTorch, Scikit-learn, XGBoost
--          Data Analysis & Visualization: SQL, R, Python(numpy,pandas), Power BI, Tableau, etc.
--          Statistical Modeling: linear regression, random forest, logistic regression, clustering, KNN, etc.
--          Web Development: C#,  JavaScript, .NET Core, CSS
 
-- Skills in real world: check out my ig - 2sidesof_me
+  **ML libraies & Framworks**: TensorFlow, PyTorch, Scikit-learn, XGBoost
+  
+  **Data Analysis & Visualizatio**n: SQL, R, Python(numpy,pandas), Power BI, Tableau, etc.
+  
+  **Statistical Modeling**: linear regression, random forest, logistic regression, clustering, KNN, etc.
+
+  **Web Development**: C#,  JavaScript, .NET Core, CSS
+
+
+  
+
+### 🔭 Current Focus
+
+- **End-to-End ML Pipeline**: From data exploration to model deployment readiness
+- **Systematic Approach**: Methodical hyperparameter tuning and validation
+- **Business Acumen**: Custom metrics development for portfolio optimization
+- **Technical Rigor**: Comprehensive evaluation and statistical validation, RL algorithms for efficient decision-making, Exploring fine-tuning techniques for LLM-based applications  
+
+
+
 
 
   
