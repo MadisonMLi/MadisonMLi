@@ -2,13 +2,13 @@
 
 This is Madison Li
 
-**Current**: Master in Computer Engineering (Human Robot Interactions) @ Tufts University 
+**Current**: Master in **Computer Engineering** (Human Robot Interactions) @ Tufts University 
 
-Education: Ms in Financial Mathematics 
-           BS in Management Information Systems, minor in Finance 
+**Education**: Ms in Financial Mathematics 
+           BS in Management Information Systems, Minor in Finance 
 
 
-- Skills: Python, SQL, API architecture, C++, C#, javascript & Html
+- **Skills**: Python, SQL, API architecture, C++, C#, javascript & Html
           ML libraies & Framworks: TensorFlow, PyTorch, Scikit-learn, XGBoost
           Data Analysis & Visualization: SQL, R, Python(numpy,pandas), Power BI, Tableau, etc.
           Statistical Modeling: linear regression, random forest, logistic regression, clustering, KNN, etc.
