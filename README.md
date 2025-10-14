@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Madison Li
 
-## EDUCATION: 
+
 Master in **Computer Engineering** (Human Robot Interactions) @ Tufts University 
 
 
