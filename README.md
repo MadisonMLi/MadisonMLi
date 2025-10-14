@@ -9,10 +9,10 @@ This is Madison Li
 
 
 - **Skills**: Python, SQL, API architecture, C++, C#, javascript & Html
-          ML libraies & Framworks: TensorFlow, PyTorch, Scikit-learn, XGBoost
-          Data Analysis & Visualization: SQL, R, Python(numpy,pandas), Power BI, Tableau, etc.
-          Statistical Modeling: linear regression, random forest, logistic regression, clustering, KNN, etc.
-          Web Development: C#,  JavaScript, .NET Core, CSS
+-          ML libraies & Framworks: TensorFlow, PyTorch, Scikit-learn, XGBoost
+-          Data Analysis & Visualization: SQL, R, Python(numpy,pandas), Power BI, Tableau, etc.
+-          Statistical Modeling: linear regression, random forest, logistic regression, clustering, KNN, etc.
+-          Web Development: C#,  JavaScript, .NET Core, CSS
 
 - Skills in real world: check out my ig - 2sidesof_me
 
