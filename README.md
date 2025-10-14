@@ -18,7 +18,7 @@ Master in **Computer Engineering** (Human Robot Interactions) @ Tufts University
 
   **ML libraies & Framworks**: TensorFlow, PyTorch, Scikit-learn, XGBoost
   
-  **Data Analysis & Visualizatio**n: SQL, R, Python(numpy,pandas), Power BI, Tableau, etc.
+  **Data Analysis & Visualizatio**n: SQL, R, Python(numpy, pandas), Power BI, Tableau, etc.
   
   **Statistical Modeling**: linear regression, random forest, logistic regression, clustering, KNN, etc.
 
