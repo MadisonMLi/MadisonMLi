@@ -8,7 +8,7 @@ Master in **Computer Engineering** (Human Robot Interactions) @ Tufts University
 
 💡 Interested in **Machine Learning**, **Education Technology**, and **Human–Robot Interaction**  
 
-📍 Newton, MA | ✉️ [ml32@tufts.edu](mailto:ml32@tufts.edu)
+📍 Newton, MA | ✉️ [mli32@tufts.edu](mailto:mli32@tufts.edu)
 
 ---
 
