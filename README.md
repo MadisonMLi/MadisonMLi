@@ -14,15 +14,13 @@ Master in **Computer Engineering** (Human Robot Interactions) @ Tufts University
 
 
 
-- **Skills**: Python, SQL, API architecture, C++, C#, javascript & Html
-
-  **ML libraies & Framworks**: TensorFlow, PyTorch, Scikit-learn, XGBoost
+  **ML libraies & Framworks**: PyTorch, Scikit-learn, XGBoost, TensorFlow, Multimodal LLMs, TSMixer
   
-  **Data Analysis & Visualizatio**n: SQL, R, Python(numpy, pandas), Power BI, Tableau, etc.
+  **Data Analysis & Visualizatio**n: SQL, Python(numpy, pandas), Power BI, Tableau, etc.
   
-  **Statistical Modeling**: linear regression, random forest, logistic regression, clustering, KNN, etc.
+  **Statistical Modeling**: Monte Carlo, linear regression, random forest, logistic regression, clustering, KNN, etc.
 
-  **Web Development**: C#,  JavaScript, .NET Core, CSS
+  **Web Development**: C#, API architecture, JavaScript, .NET Core, CSS & Html
 
 
   🌱🌱🌱🌱🌱🌱🌱🌱🌱
