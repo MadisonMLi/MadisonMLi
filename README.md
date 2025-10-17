@@ -6,7 +6,7 @@ Master in **Computer Engineering** (Human Robot Interactions) @ Tufts University
 
 🎓 MS in Financial Mathematics | BS in Management Information Systems  
 
-💡 Interested in **Machine Learning**, **Quantitive Analysis**, and **Human–Robot Interaction**  
+💡 Current focus: **Machine Learning**, **Quantitive Analysis**, and **Human–Robot Interaction**  
 
 📍 Newton, MA | ✉️ [mli32@tufts.edu](mailto:mli32@tufts.edu)
 
@@ -14,7 +14,7 @@ Master in **Computer Engineering** (Human Robot Interactions) @ Tufts University
 
 
 
-  **ML libraies & Framworks**: PyTorch, Scikit-learn, XGBoost, TensorFlow, Multimodal LLMs, TSMixer
+  **ML libraries & Frameworks**: PyTorch, Scikit-learn, XGBoost, TensorFlow, Multimodal LLMs, TSMixer
   
   **Data Analysis & Visualizatio**n: SQL, Python(numpy, pandas), Power BI, Tableau, etc.
   
