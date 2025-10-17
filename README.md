@@ -6,7 +6,7 @@ Master in **Computer Engineering** (Human Robot Interactions) @ Tufts University
 
 🎓 MS in Financial Mathematics | BS in Management Information Systems  
 
-💡 Interested in **Machine Learning**, **Education Technology**, and **Human–Robot Interaction**  
+💡 Interested in **Machine Learning**, **Quantitive Analysis**, and **Human–Robot Interaction**  
 
 📍 Newton, MA | ✉️ [mli32@tufts.edu](mailto:mli32@tufts.edu)
 
@@ -25,20 +25,6 @@ Master in **Computer Engineering** (Human Robot Interactions) @ Tufts University
   **Web Development**: C#,  JavaScript, .NET Core, CSS
 
 
-  
-
-### 🔭 Current Focus
-
-- **End-to-End ML Pipeline**: From data exploration to model deployment readiness
-- **Systematic Approach**: Methodical hyperparameter tuning and validation
-- **Business Acumen**: Custom metrics development for portfolio optimization
-- **Technical Rigor**: Comprehensive evaluation and statistical validation, RL algorithms for efficient decision-making, Exploring fine-tuning techniques for LLM-based applications  
-
-
-
-
-
-  
   🌱🌱🌱🌱🌱🌱🌱🌱🌱
 
 <!--
