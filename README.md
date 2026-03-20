@@ -1,12 +1,10 @@
 ## 👋 Hi, I'm Madison Li
 
 
-Master in **Computer Engineering** (Human Robot Interactions) @ Tufts University 
 
+🎓 MS in Financial Mathematics, Computer Engineering - Human Robot Interactions | BS in Management Information Systems  
 
-🎓 MS in Financial Mathematics | BS in Management Information Systems  
-
-💡 Current focus: **Machine Learning**, **Quantitive Analysis**, and **Human–Robot Interaction**  
+💡 Data Scientist | Financial Analytics | GenAI Applications
 
 📍 Newton, MA | ✉️ [mli32@tufts.edu](mailto:mli32@tufts.edu)
 
