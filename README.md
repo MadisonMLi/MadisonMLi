@@ -4,7 +4,7 @@
 
 🎓 MS in Financial Mathematics, Computer Engineering - Human Robot Interactions | BS in Management Information Systems  
 
-💡 Data Scientist | Financial Analytics | GenAI Applications
+💡 Data Scientist | Machine Learning Engineer | Financial Analysis | GenAI Applications
 
 📍 Newton, MA | ✉️ [mli32@tufts.edu](mailto:mli32@tufts.edu)
 
