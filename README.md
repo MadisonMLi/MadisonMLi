@@ -16,7 +16,7 @@
   
   **Data Analysis & Visualizatio**n: SQL, Python(numpy, pandas), Power BI, Tableau, etc.
   
-  **Quantitive Analysis**: Monte Carlo, linear regression, random forest, logistic regression, clustering, KNN, etc.
+  **Quantitative Analysis**: Monte Carlo, linear regression, random forest, logistic regression, clustering, KNN, etc.
 
   **Web Development**: C#, API architecture, JavaScript, .NET Core, CSS & Html
 
