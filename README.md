@@ -4,7 +4,7 @@
 
 🎓 MS in Financial Mathematics, Computer Engineering - Human Robot Interactions | BS in Management Information Systems  
 
-💡 Data Scientist | Machine Learning Engineer | Financial Analysis | GenAI Applications
+💡 Data Scientist | Machine Learning Engineer | Ex-Financial Analyst 
 
 📍 Boston, MA | ✉️ [mli32@tufts.edu](mailto:mli32@tufts.edu) | 👀 [Personal Website](https://madisonmli.github.io/)
 
