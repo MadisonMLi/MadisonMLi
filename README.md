@@ -6,7 +6,7 @@
 
 💡 Data Scientist | Machine Learning Engineer | Financial Analysis | GenAI Applications
 
-📍 Newton, MA | ✉️ [mli32@tufts.edu](mailto:mli32@tufts.edu)
+📍 Newton, MA | ✉️ [mli32@tufts.edu](mailto:mli32@tufts.edu) | 👀 [Personal Website](https://madisonmli.github.io/)
 
 ---
 
