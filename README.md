@@ -12,7 +12,7 @@
 
 
 
-  **ML libraries & Frameworks**: PyTorch, Scikit-learn, XGBoost, TensorFlow, Multimodal LLMs, TSMixer
+  **ML libraries & Frameworks**: PyTorch, Scikit-learn, XGBoost, TensorFlow, LLMs, RAG, Anthropic AI
   
   **Data Analysis & Visualizatio**n: SQL, Python(numpy, pandas), Power BI, Tableau, etc.
   
