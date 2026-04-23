@@ -18,7 +18,7 @@
   
   **Quantitative Analysis**: Monte Carlo, linear regression, random forest, logistic regression, clustering, KNN, etc.
 
-  **Web Development**: C#, API architecture, JavaScript, .NET Core, CSS & Html
+  **Web Development**: C#, JavaScript, .NET Core, CSS & Html
 
 
   🌱🌱🌱🌱🌱🌱🌱🌱🌱
